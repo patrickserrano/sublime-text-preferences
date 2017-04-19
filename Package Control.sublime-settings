@@ -1,9 +1,22 @@
-{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"Advanced CSV",
+		"AutoFileName",
 		"Base16 Color Schemes",
-		"CSSLint",
-		"Theme - Soda",
+		"Google Spell Check",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Materialize",
+		"Monokai - Spacegray",
+		"Monokai Neue",
+		"Package Control",
+		"PlainTasks",
+		"Theme - Spaceblack",
 		"Theme - Spacegray"
 	]
 }
